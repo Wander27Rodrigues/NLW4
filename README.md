@@ -21,10 +21,12 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## Pré-requisitos
 Este é um exemplo de como listar coisas que você precisa usar o software e como instalá-las.
 
-### Npm
+## Npm
+Instale o pacote node
+
 ``` npm install npm@latest -g ```
 
-## Projeto
+## Depedências
 
 Instale as depedências para rodar em ambiente de Desenvolvimento ☻:
 
@@ -33,7 +35,10 @@ yarn add typescript @types/react @types/react-dom @types/node -D
 ```
 ### Instalação
 Clone o repositorio
+
+```
 git clone https://github.com/Wander27Rodrigues/NLW4.git
+```
 
 Em seguida rode o camando
 ``` 

@@ -28,7 +28,9 @@ Instale o pacote node
 
 ## Yarn
 Instale o yarn
-``` npm install --global yarn ```
+``` 
+npm install --global yarn 
+```
 
 ## Depedências
 

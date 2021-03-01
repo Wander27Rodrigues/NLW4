@@ -2,12 +2,11 @@ This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next
 
 ## Getting Started
 
-First, run the development server:
+Primeiro instale as depedencia em seguida rode em ambiente de Desenvolvimento ☻:
 
 ```bash
-npm run dev
-# or
-yarn dev
+1 passo - yarn add typescript @types/react @types/react-dom @types/node -D
+2 passo - npm run dev ou yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

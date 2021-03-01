@@ -18,9 +18,19 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - TypeScript
 
+## Pré-requisitos
+Este é um exemplo de como listar coisas que você precisa usar o software e como instalá-las.
+
+### Npm
+``` npm install --global ```
+
+### Instalação
+Clone o repositorio
+git clone https://github.com/elbertribeiro/todo-list-electronJS.git
+
 ## Projeto
 
-Primeiro instale as depedências em seguida rode em ambiente de Desenvolvimento ☻:
+Instale as depedências, em seguida para rodar em ambiente de Desenvolvimento ☻:
 
 ```bash
 1 passo - yarn add typescript @types/react @types/react-dom @types/node -D

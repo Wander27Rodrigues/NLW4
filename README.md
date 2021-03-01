@@ -1,12 +1,31 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#memo-licença">Licença</a>
+</p>
 
-## Getting Started
 
-Primeiro instale as depedencia em seguida rode em ambiente de Desenvolvimento ☻:
+<p align="center">
+  <img alt="Move.it" src=".github/devfinances.png" width="100%">
+</p>
+
+# 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML
+- CSS
+- JavaScript
+
+## Projeto
+
+Primeiro instale as depedências em seguida rode em ambiente de Desenvolvimento ☻:
 
 ```bash
-1 passo - yarn add typescript @types/react @types/react-dom @types/node -D
-2 passo - npm run dev ou yarn dev
+yarn add typescript @types/react @types/react-dom @types/node -D
+
+npm run dev ou yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

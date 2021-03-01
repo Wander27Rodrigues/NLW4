@@ -18,7 +18,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - JavaScript
 
-## Projeto
+## projeto
 
 Primeiro instale as depedências em seguida rode em ambiente de Desenvolvimento ☻:
 

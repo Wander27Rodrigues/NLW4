@@ -26,6 +26,10 @@ Instale o pacote node
 
 ``` npm install npm@latest -g ```
 
+## Yarn
+Instale o yarn
+``` npm install --global yarn ```
+
 ## Depedências
 
 Instale as depedências para rodar em ambiente de Desenvolvimento ☻:

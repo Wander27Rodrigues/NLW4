@@ -6,8 +6,11 @@
 </p>
 
 
+<p align="center">
+  <img alt="Move.it" src=".github/devfinances.png" width="100%">
+</p>
 
-## 🚀 Tecnologias
+# 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 

@@ -16,16 +16,16 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
 - CSS
-- JavaScript
+- TypeScript
 
 ## Projeto
 
 Primeiro instale as depedências em seguida rode em ambiente de Desenvolvimento ☻:
 
 ```bash
-yarn add typescript @types/react @types/react-dom @types/node -D
+1 passo - yarn add typescript @types/react @types/react-dom @types/node -D
 
-npm run dev ou yarn dev
+2 passo - npm run dev ou yarn dev
 ```
 
 Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.

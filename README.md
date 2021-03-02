@@ -46,7 +46,7 @@ Clone o repositorio
 git clone https://github.com/Wander27Rodrigues/NLW4.git
 ```
 
-Em seguida rode o camando
+Em seguida rode o comando
 ``` 
 npm run dev 
 ou 

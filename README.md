@@ -7,7 +7,7 @@
 
 
 <p align="center">
-  <img alt="Move.it" src=".github/devfinances.png" width="100%">
+  <img src="./public/logo-full.svg" alt="Move.it"  width="100%">
 </p>
 
 # 🚀 Tecnologias

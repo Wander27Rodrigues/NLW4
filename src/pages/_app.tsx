@@ -1,6 +1,7 @@
 import '../styles/global.css';
 
-import { ChallengesProvider } from '../contexts/ChallengesContext'
+import { ChallengesProvider } from '../contexts/ChallengesContext';
+import { BrowserRouter, Route, Switch } from 'react-router-dom';
 
 
 function MyApp({ Component, pageProps }) {

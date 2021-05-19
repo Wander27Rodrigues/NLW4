@@ -18,6 +18,15 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - CSS
 - TypeScript
 
+# 💻 Projeto
+ Esse projeto foi desvenvolvido para ajudar as pessoas a terem o habito de se execertar(movimentar) durante o tempo de trabalho.
+
+
+# 🔖 Layout
+<p align="center">
+  <img  src="./assets/formulario.PNG" width="100%" alt="Form" >
+</p>
+
 ## Pré-requisitos
 Este é um exemplo de como listar coisas que você precisa usar o software e como instalá-las.
 
